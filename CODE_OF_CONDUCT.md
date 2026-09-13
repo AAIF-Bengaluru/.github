@@ -13,6 +13,7 @@ That policy sets the event requirements and response procedures.
 
 ## Report a concern
 
+Contact chapter organizers privately through [AAIF Bengaluru on Luma](https://luma.com/aaif-bengaluru).
 At an event, contact an organizer privately.
 For event concerns that need another contact, use the reporting contact in the Linux Foundation policy.
 Report abusive GitHub content through [GitHub's reporting tools](https://docs.github.com/en/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam).

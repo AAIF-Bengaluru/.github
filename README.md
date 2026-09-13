@@ -1,10 +1,11 @@
 # AAIF Bengaluru community files
 
-Shared contribution, conduct, and support guidance for the AAIF Bengaluru GitHub organization.
+Shared contribution, conduct, security, and support guidance for the AAIF Bengaluru GitHub organization.
 
 - [Organization profile](profile/README.md)
 - [Contributing](CONTRIBUTING.md)
 - [Code of conduct](CODE_OF_CONDUCT.md)
+- [Security](SECURITY.md)
 - [Support](SUPPORT.md)
 - [Pull request template](.github/PULL_REQUEST_TEMPLATE.md)
 

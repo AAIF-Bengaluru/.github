@@ -16,5 +16,7 @@ Organizers with playbook access should keep planning updates in the existing eve
 
 ## Sensitive concerns
 
+Contact organizers privately through [AAIF Bengaluru on Luma](https://luma.com/aaif-bengaluru) for sensitive chapter questions.
+Use the [security policy](https://github.com/AAIF-Bengaluru/.github/blob/main/SECURITY.md) for security reports.
 Use the [code of conduct](https://github.com/AAIF-Bengaluru/.github/blob/main/CODE_OF_CONDUCT.md) for conduct reports.
 Do not post attendee data, private contacts, credentials, or incident details in public issues.
